@@ -1,1 +1,1 @@
-"# stuck-in-a-time-loop" 
+[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)
